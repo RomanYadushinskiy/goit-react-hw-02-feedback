@@ -1,5 +1,5 @@
 {
-  "name": "react-homework-template",
+  "name": "goit-react-hw-02-feedback",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://RomanYadushinskiy.github.io/goit-react-hw-02-feedback/",
@@ -37,5 +37,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomanYadushinskiy/goit-react-hw-02-feedback.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomanYadushinskiy/goit-react-hw-02-feedback/issues"
   }
 }
